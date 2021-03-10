@@ -1,5 +1,5 @@
 # GameSource
-A games database and games review aggregator using .NET Core.
+A games database and games review aggregator. Uses ASP.NET Core MVC.
 
 ## Features
 - **Back-end:** ASP.NET Core, Web API. MVC with Repository and Service Layers
